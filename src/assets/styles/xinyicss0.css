@@ -1,0 +1,30 @@
+/* 弹框可移动拖拽 */
+.abow_dialog {
+  display: flex;
+  justify-content: center;
+  align-items: Center;
+  overflow: hidden;
+}
+.abow_dialog .el-dialog {
+  margin: 0 auto !important;
+  height: 90%;
+  overflow: hidden;
+}
+.abow_dialog .el-dialog__body {
+  position: absolute;
+  left: 0;
+  top: 54px;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+  z-index: 1;
+  overflow: hidden;
+  overflow-y: auto;
+}
+.abow_dialog .el-dialog__footer {
+  position: absolute;
+  z-index: 10 !important;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}

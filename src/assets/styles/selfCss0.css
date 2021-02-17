@@ -1,0 +1,65 @@
+a.starCss0 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #666666;
+}
+a.starCss1 {
+  color: #ff0000;
+}
+a.starCss0:hover {
+  color: #ff0000;
+}
+.el-tableCss0 th {
+  background-color: #f8f8f9;
+}
+.h5Css0 {
+  width: 90%;
+  margin-left: 5%;
+  font-weight: bold;
+  font-size: 16px;
+  border-bottom: 1px solid #000;
+}
+.el-form-item {
+  margin-bottom: 1px !important;
+}
+.h5Css1 {
+  width: 100%;
+  padding-left: 10px;
+  margin: 5px 0 !important;
+  font-weight: bold;
+  font-size: 16px;
+  border-left: 5px solid #1890ff;
+}
+.h5Css2 {
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /* margin-left: 5%; */
+  margin-top: 0 !important;
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #eeeeee;
+}
+.msgSpancss0 {
+  margin-left: 20px;
+}
+.redTxt {
+  color: #ffba00;
+}
+.cursorColumn {
+  cursor: pointer;
+  text-decoration: underline;
+}
+a.cursorColumn:hover {
+  color: #1890ff;
+}
+.graycss0 {
+  padding: 10px;
+  background: #eeeeee;
+}
+.graycss1 {
+  /* padding: 10px; */
+  margin-bottom: 10px;
+  border: 1px solid #eeeeee;
+}
